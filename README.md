@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AmazingConnie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @AmazingConnie, or Rohan Mallu
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently pursuing a Bachelor's in Computer Science
+- 💞️ I’m looking to collaborate on basic projects involving APIs and AI
+- 📫 How to reach me: https://www.linkedin.com/in/rohan-mallu/
 
 <!---
 AmazingConnie/AmazingConnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
