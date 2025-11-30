@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on projects involving APIs, Full Stack Development, Cloud Computing, or Data Science
 - 📫 How to reach me: https://www.linkedin.com/in/rohan-mallu/
 
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=AmazingConnie&show_icons=true&include_all_commits=true&icon_color=FB7299&title_color=FB7299&hide_border=true"/>
+
 [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazingconnie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amazingconnie&layout=compact&hide=jupyter%20notebook)
