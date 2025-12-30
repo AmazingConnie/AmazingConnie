@@ -2,7 +2,7 @@
 -  I’m interested in Computer Science, and I'm currently looking for a job
 -  LinkedIn: https://www.linkedin.com/in/rohan-mallu/
 
-<img align="center" src="https://github-readme-stats-five-dusky-71.vercel.app/api?username=AmazingConnie&show_icons=true&include_all_commits=true&icon_color=709FE6&title_color=709FE6&hide_border=true"/>
+<img align="center" src="https://github-readme-stats-five-dusky-71.vercel.app/api?username=AmazingConnie&show_icons=true&include_all_commits=true&icon_color=825991&title_color=825991&hide_border=true"/>
 
 <img align="center" src="https://github-readme-stats-five-dusky-71.vercel.app/api/top-langs/?username=AmazingConnie&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&include_all_commits=true&icon_color=709FE6&hide_border=true&title_color=709FE6&hide=jupyter%20notebook"/>
 
