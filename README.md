@@ -1,5 +1,5 @@
 ### Hi, I’m Rohan Mallu
--  I’m interested in Computer Science, and I'm currently looking for a job
+-  I’m a recent CS graduate, and I'm currently looking for a job
 -  LinkedIn: https://www.linkedin.com/in/rohan-mallu/
 
 <img align="center" src="https://github-readme-stats-five-dusky-71.vercel.app/api?username=AmazingConnie&show_icons=true&include_all_commits=true&icon_color=825991&title_color=825991&hide_border=true"/>
